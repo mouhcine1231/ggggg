@@ -6,7 +6,7 @@
     "discord bot maker",
     "6pg"
   ],
-  "repository": "https://github.com/theADAMJR/6PG",
+  "repository": "https://github.com/mouhcine1231/ggggg",
   "env": {
     "API_URL": {
       "description": "Same as DASHBOARD_URL, but with /api at the end.",
